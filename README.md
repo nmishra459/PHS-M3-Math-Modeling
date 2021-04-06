@@ -1,5 +1,8 @@
 # M3 Math Modeling Competition 2020
+<b>Team 13991</b>: Richard Qi, Andrew Yan, Simon Li, Nishant Mishra, Dylan Raphael
+
 <b>Description: </b>Competed in a team of 5 to research the U.S. electric truck market, develop mathematical models (Python) to predict electric truck usage in the next two decades, and determine ideal economic/environmental zones for U.S.-based charging station infrastructure. Final paper was placed in **the top 19% of 760 submissions.**
+
 
 **Link to Final Paper Submission:** https://drive.google.com/file/d/1OO-L5_0o9LPhplAl4KsvOcDH0Afh9QTG/view
 <div align = "center">
