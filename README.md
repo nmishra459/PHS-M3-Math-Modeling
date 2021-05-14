@@ -1,4 +1,4 @@
-# M3 Math Modeling Competition 2020
+# MathWorks Math Modeling Competition 2020
 <b>Team 13991</b>: Richard Qi, Andrew Yan, Simon Li, Nishant Mishra, Dylan Raphael
 
 <b>Description: </b>Modeling and sensitivity scripts for a project on researching the the U.S. electric truck market, developing mathematical models (Python) to predict electric truck usage in the next two decades, and determining ideal economic/environmental zones for U.S.-based charging station infrastructure. Final paper was placed in **the top 19% of 760 submissions.**
